@@ -1,5 +1,9 @@
 # Son El: Kuzgun Malikânesi
 
+## [▶ Tarayıcıda oyna](https://whitich.github.io/son-el/)
+
+Kont Vesper'e karşı üç lanetli masada ruhunu geri kazan. Kurulum gerekmez; bilgisayar ve mobil tarayıcıda açılır. Müzik ilk el başladığında çalar; üst çubuktan kapatılabilir veya kısılabilir.
+
 index.html dosyasını tarayıcıda açın. Kurulum, internet veya hesap gerekmez.
 
 Gotik blackjack hikâyesi: Kont Vesper, üç masa, iki farklı ek lanet, sınırlı tılsımlar ve iki son. Kurallar oyun içindeki düğmede. Ses kullanıcı açana kadar kapalıdır. Mobil ekranlara uyarlanır. İlerleme yalnız mevcut oturumda tutulur.
